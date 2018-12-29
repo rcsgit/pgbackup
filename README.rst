@@ -7,7 +7,7 @@ CLI for bakcup remote PostgreSQL database either locally or to S#
 Preparing the Development
 -------------------------
 
-1. Ensure ``ip`` and ``pipenv`` are installed.
+1. Ensure ``pip`` and ``pipenv`` are installed.
 2. Clone repository: ``git close git@github.com:example/pgbackup``
 3. ``cd`` into the repository
 4. Fetch development dependencies ``make install``
